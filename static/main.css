@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(BG-Omni.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+hr {
+    width: 50%;
+    margin: auto;
+    color: rgb(26, 54, 179);
+  }
+
+.img {
+    width: 55%;
+    height: 350px;
+}
+
+.container{
+  border: 2px dashed green;
+  width: 55%;
+}
+
+.col-8{
+    margin-left: 38%;
+}
+
+.col-6{
+    padding-left: 15%;  
+}
+
+.btn {
+    width: 150px;
+}
+
+
+.footer{
+    height: 10vh;
+    background-color: rgb(133, 133, 173);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6%;
+}
+
+.logo{
+    height: 50%;
+    width: 40px;
+}
