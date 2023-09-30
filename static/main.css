@@ -1,9 +1,10 @@
 body{
     margin: 0%;
     padding: 0%;
-    background-image: url(BG-Omni.png);
+    background-image: url(BG-OmniW.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background: fixed;
 }
 
 
